@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f0f0;
+    margin: 0;
+    padding: 0;
+    color: #0f0e0e;
+    background-image: url("https://t4.ftcdn.net/jpg/08/82/20/75/240_F_882207522_8LeNbuFN3MNRThdopJdJIB4dp0YWHfWA.jpg");
+    background-size: cover;
+    
+}
+
+header {
+    
+    color: rgb(1, 12, 17);
+    padding: 1rem;
+    text-align: center;
+    border-radius:2%;
+    
+    margin: 1%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin: 0;
+}
+
+main {
+    padding: 2rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+/* Form Styles */
+#search {
+    margin-bottom: 2rem;
+}
+
+#weather-form {
+    display: flex;
+    gap: 1rem;
+}
+
+#city-input {
+    flex: 1;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+button {
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #007BFF;
+    color: white;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Weather Display Styles */
+#weather-display {
+    background-color: #94c8f3;
+    padding: 0.5rem;
+    border-radius: 8px;
+    border-style:solid;
+    border-color: #839abd;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#weather-container {
+    font-size: 1.2rem;
+}
+
+p {
+    margin: 0.5rem 0;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #479bf5;
+    color: rgb(12, 3, 3);
+    text-align:center;
+    font-size: 100%;
+    padding: 0.rem;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    
+    background-image: url("https://t4.ftcdn.net/jpg/08/82/20/75/240_F_882207522_8LeNbuFN3MNRThdopJdJIB4dp0YWHfWA.jpg");
+    background-size: cover;
+    position:fixed ;
+}
