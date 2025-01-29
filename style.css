@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     color: #0f0e0e;
-    background-image: url("https://t4.ftcdn.net/jpg/08/82/20/75/240_F_882207522_8LeNbuFN3MNRThdopJdJIB4dp0YWHfWA.jpg");
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/053/857/350/small/the-sky-is-filled-with-clouds-and-the-ocean-is-rough-with-waves-crashing-against-the-shore-scene-is-serene-and-tranquil-as-the-clouds-and-waves-create-a-sense-of-calmness-and-peacefulness-free-photo.jpg");
     background-size: cover;
     
 }
@@ -67,6 +67,10 @@ button:hover {
     border-radius: 8px;
     border-style:solid;
     border-color: #839abd;
+    background-image: url("https://videocdn.cdnpk.net/videos/b08aacc8-eac6-4e78-b481-ffc9752c3f60/horizontal/thumbnails/small.jpg");
+    background-size: cover;
+
+
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
@@ -89,7 +93,7 @@ footer {
     bottom: 0;
     width: 100%;
     
-    background-image: url("https://t4.ftcdn.net/jpg/08/82/20/75/240_F_882207522_8LeNbuFN3MNRThdopJdJIB4dp0YWHfWA.jpg");
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/053/857/350/small/the-sky-is-filled-with-clouds-and-the-ocean-is-rough-with-waves-crashing-against-the-shore-scene-is-serene-and-tranquil-as-the-clouds-and-waves-create-a-sense-of-calmness-and-peacefulness-free-photo.jpg");
     background-size: cover;
     position:fixed ;
 }
